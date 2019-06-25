@@ -19,9 +19,21 @@ body{
 h1{
   text-align:center;
 }
-.container{
 
+input{
+  max-width:80%;
 }
+.numSearch{
+  width:600px;
+}
+.parkSearch{
+  width:600px;
+}
+
+.stateSearch{
+  width:600px;
+}
+
 form{
     text-align:center;
 }
